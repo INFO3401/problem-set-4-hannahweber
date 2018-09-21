@@ -22,4 +22,28 @@ Data Science used to be a specialty where all you would do was crunch the number
 This surge in data is coming from everyone, but mainly from digital sources. The internet allows the collection of data to occur with very little effort and then it will store the data in mass quantities. It is a great invention that greatly benefitted the data science world. 
 
 Friday - 
-#1: 
+Three different data collection methods:
+1. Online surveys
+2. Clinical trials
+3. Click-through ad data
+
+Similarities:
+- All collected and stored digitally
+- Collects both quantitative and qualitative information
+- Structured data collection methods where you have a certain objective and specific information you want to collect data on
+
+Differences:
+1. Online Surveys
+- A person knows that data is being collected about them and they are willingly giving it up
+- It is important that the phrasing of the questions are done systematically in order to collect the right data
+- Example: Surveys can be used to collect basic information on the people who are attending an 	event
+
+2. Clinical Trials
+- Typically collected in a professional setting
+- Requires ethics and certain health procedures to be followed when collecting the data
+- Example: Clinical trials can be used to collect data on a medical experiment
+
+3. Click through Ad Data
+- Examine people in their natural setting
+- Typically without their knowledge that you are recording it
+- Example: Click through data can be collected on digital ads to see how people respond and interact with the ad
